@@ -1,0 +1,13 @@
+//default elements
+android {
+  productFlavors {
+    "account-kit-hms-plugin" {
+      dimension "account-kit-hms-plugin"
+    }
+  }
+}
+
+//optional elements
+dependencies {
+    implementation "com.jakewharton.timber:timber:4.7.1"
+}

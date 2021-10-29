@@ -1,0 +1,1 @@
+# AccountKitHMS-NativeScript-plugin
