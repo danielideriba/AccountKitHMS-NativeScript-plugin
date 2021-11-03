@@ -1,0 +1,10 @@
+apply plugin: "com.huawei.agconnect"
+
+//default elements
+android {
+}
+
+//optional elements
+dependencies {
+    implementation 'com.huawei.hms:hwid:5.2.0.300'
+}
